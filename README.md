@@ -20,5 +20,5 @@
 4. **Finalização**
 Se nenhum item foi adicionado, exibe:
   ```
-  Nenhum item foi adicionado.
+     Nenhum item foi adicionado.
   ```
